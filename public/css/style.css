@@ -20,3 +20,8 @@ p {
 .img-small {
   width: 180px;
 }
+
+html {
+  background-color: #666;
+  color: white;
+}
